@@ -1,0 +1,62 @@
+#error
+{
+	color: red;
+}
+
+#footer
+{
+	background: #ddd;
+	text-align: center;
+	padding: 30px;
+	height: 1%;
+}
+
+#frame
+{
+	margin: 0 auto;
+	width: 750px;
+	background:#eee;
+}
+
+#content
+{
+	clear: left;
+	padding: 30px;
+}
+
+#header
+{
+	background: #ddd;
+   text-align: left;
+   padding: 20px;
+   height: 1%;
+}
+
+input[type="text"] 
+{ 
+	border: 1px solid #999; 
+	font-size: 12px; 
+	padding: 7px; 
+	display: block;
+}
+
+input[type="password"] 
+{ 
+	border: 1px solid #999; 
+	font-size: 12px; 
+	padding: 7px; 
+	display: block;
+}
+
+table
+{
+width:100%;
+}
+
+th
+{
+height:10px;
+background-color:grey;
+color:white;
+} 
+
